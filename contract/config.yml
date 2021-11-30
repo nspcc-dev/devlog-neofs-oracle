@@ -1,0 +1,5 @@
+name: "Devlog oracle example"
+supportedstandards: []
+events:
+permissions:
+  - methods: ["request"]
